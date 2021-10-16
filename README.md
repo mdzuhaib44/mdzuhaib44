@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mdzuhaib44
-- 👀 I’m interested in CyberSecurity and Blockchain Technology
+- 👀 I’m interested in CyberSecurity and Blockchain
 - 🌱 I’m currently learning how write smart contracts in Solidity
 - 📫 You can connect to me via Linkedin - https://www.linkedin.com/in/zuhaib44
 
